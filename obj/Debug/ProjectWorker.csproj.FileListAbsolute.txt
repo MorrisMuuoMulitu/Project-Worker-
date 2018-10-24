@@ -1,0 +1,6 @@
+E:\munka\Morris\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.csproj.CoreCompileInputs.cache
+E:\munka\Morris\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.exe.config
+E:\munka\Morris\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.exe
+E:\munka\Morris\ProjectWorker\ProjectWorker\bin\Debug\ProjectWorker.pdb
+E:\munka\Morris\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.exe
+E:\munka\Morris\ProjectWorker\ProjectWorker\obj\Debug\ProjectWorker.pdb
